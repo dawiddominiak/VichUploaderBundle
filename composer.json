@@ -22,7 +22,7 @@
         "jms/metadata": "~1.5",
         "symfony/finder": "~2.0|~3.0",
         "symfony/property-access": "~2.4|~3.0",
-        "ocramius/proxy-manager": "~1.0"
+        "ocramius/proxy-manager": "~2.0"
     },
     "require-dev": {
         "ext-sqlite3" : "*",
@@ -32,7 +32,6 @@
         "oneup/flysystem-bundle": "dev-master",
         "doctrine/orm": "~2.2,>=2.2.3",
         "doctrine/doctrine-bundle": "*",
-
         "phpunit/phpunit": "~4.0",
         "mikey179/vfsStream": "~1.0",
         "matthiasnoback/symfony-dependency-injection-test": "0.*"
